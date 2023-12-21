@@ -1,0 +1,5 @@
+# Ideias para melhorar o jogo:
+1. Ao inves de colidir com as paredes, fazer com que a cobrinha atrave-se para o outro lado
+2. Fazer com que não acione o fim do jogo ao clicar na seta com direção oposta à cobrinha
+3. Melhorar visual e design para deixar mais atraente.
+4. Velocidade dinamica, deixando a velocidade da cobra e do jogo diretamente proporcional ao tamanho da cobra.
