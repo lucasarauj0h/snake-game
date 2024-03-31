@@ -1,2 +1,2 @@
 # snake-game
-Criação do jogo Snake utilizando a biblioteca pygame
+Criação do jogo Snake utilizando a biblioteca pygame do python
